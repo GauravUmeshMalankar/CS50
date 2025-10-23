@@ -1,0 +1,8 @@
+
+print("?"*3)
+
+def q(n):
+    for i in range(n):
+        print("?", end = ",")
+
+q(3)
